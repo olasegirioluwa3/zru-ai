@@ -1,0 +1,5 @@
+*.zip
+*.docx
+*.pdf
+*.env
+node_modules/
